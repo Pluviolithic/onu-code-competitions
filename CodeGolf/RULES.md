@@ -27,6 +27,7 @@ The lowest character count wins. Perhaps a per-language leaderboard will be crea
 * [Haskell](https://www.haskell.org/)
 * [Java](https://www.java.com/en/)
 * [JavaScript](https://www.javascript.com/)
+* [Kotlin](https://kotlinlang.org/)
 * [Lisp](https://lisp-lang.org/)
 * [Lua](https://www.lua.org/)
 * [Perl](https://www.perl.org/)
